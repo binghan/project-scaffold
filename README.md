@@ -1,1 +1,1 @@
-# project-scaffold
+# 一个基于ruoyi的脚手架工程，作为后续开发项目的模板
